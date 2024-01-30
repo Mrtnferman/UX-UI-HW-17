@@ -9,10 +9,11 @@
 
 
 .header{
+    color: #000000;
     width: 1300px;
-  height: 160px;
-  margin: 20px 0 0 50px;
-  z-index: 24;
+    height: 160px;
+    margin: 20px 0 0 50px;
+    z-index: 24;
     position: fixed;
     top: 0;
     left: 0;
@@ -37,22 +38,16 @@
   overflow: visible auto;
 }
 
-.line {
-    position: relative;
-    width: 46px;
-    height: 3px;
-    margin: 40px 0 0 270px;
-    
-  }
+
 
   .martina-ux-ui-designer {
     position: absolute;
     width: 870px;
-    height: 144px;
+    height: 145px;
     top: 0px;
     left: 0;
     font-family: Inter, var(--default-font-family);
-    font-size: 48px;
+    font-size: 50px;
     font-weight: 400;
     line-height: 60px;
     text-align: left;
@@ -79,9 +74,9 @@
   }
   .flex-row-f {
     position: relative;
-    width: 537px;
-    height: 176px;
-    margin: 103px 0 0 748px;
+    width: 550px;
+    height: 175px;
+    margin: 100px 0 0 750px;
     z-index: 20;
   }
   .with-background {
@@ -90,22 +85,22 @@
     justify-content: flex-start;
     position: absolute;
     width: 440px;
-    height: 176px;
+    height: 180px;
     top: 100px;
-    left: 97px;
+    left: 100px;
     color: #000000;
     font-family: Inter, var(--default-font-family);
     font-size: 20px;
     font-weight: 400;
     line-height: 25px;
     text-align: left;
-    z-index: 19;
+    z-index: 20;
   }
   .hand-icon {
     position: absolute;
-    width: 67px;
-    height: 67px;
-    top: 60px;
+    width: 65px;
+    height: 65px;
+    top: px;
     left: 0;
     background-size: cover;
     z-index: 20;
