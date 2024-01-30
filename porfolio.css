@@ -1,0 +1,117 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.header{
+    width: 1300px;
+  height: 160px;
+  margin: 20px 0 0 50px;
+  z-index: 24;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding:  20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: white;
+
+}
+
+
+.flex-row-c {
+  position: relative;
+  width: 870px;
+  height: 150px;
+  margin: 250px 0 0 155px;
+  z-index: 2;
+  overflow: visible auto;
+}
+
+.line {
+    position: relative;
+    width: 46px;
+    height: 3px;
+    margin: 40px 0 0 270px;
+    
+  }
+
+  .martina-ux-ui-designer {
+    position: absolute;
+    width: 870px;
+    height: 144px;
+    top: 0px;
+    left: 0;
+    font-family: Inter, var(--default-font-family);
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: left;
+    z-index: 1;
+  }
+  .im-martina {
+    position: relative;
+    color: #000000;
+    font-family: Inter, var(--default-font-family);
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: left;
+  }
+
+  .ux-ui-designer {
+    position: relative;
+    color: #000000;
+    font-family: Poppins, var(--default-font-family);
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: left;
+  }
+  .flex-row-f {
+    position: relative;
+    width: 537px;
+    height: 176px;
+    margin: 103px 0 0 748px;
+    z-index: 20;
+  }
+  .with-background {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    width: 440px;
+    height: 176px;
+    top: 100px;
+    left: 97px;
+    color: #000000;
+    font-family: Inter, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    z-index: 19;
+  }
+  .hand-icon {
+    position: absolute;
+    width: 67px;
+    height: 67px;
+    top: 60px;
+    left: 0;
+    background-size: cover;
+    z-index: 20;
+    margin-top: 300px;
+  }
+
+
+
+
